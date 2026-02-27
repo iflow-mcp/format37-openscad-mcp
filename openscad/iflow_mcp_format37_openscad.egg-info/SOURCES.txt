@@ -1,0 +1,11 @@
+README.md
+mcp_image_utils.py
+pyproject.toml
+server.py
+stdio_server.py
+iflow_mcp_format37_openscad.egg-info/PKG-INFO
+iflow_mcp_format37_openscad.egg-info/SOURCES.txt
+iflow_mcp_format37_openscad.egg-info/dependency_links.txt
+iflow_mcp_format37_openscad.egg-info/entry_points.txt
+iflow_mcp_format37_openscad.egg-info/requires.txt
+iflow_mcp_format37_openscad.egg-info/top_level.txt

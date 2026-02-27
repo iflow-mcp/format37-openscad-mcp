@@ -1,0 +1,3 @@
+mcp_image_utils
+server
+stdio_server
